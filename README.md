@@ -1,6 +1,9 @@
 ### Hello
 
-I monke.
+My name is James Walston, I am a full-stack developer. I write mostly in PHP, Python and JavaScript, but occasionally do more work with front-end Website Development tasks accompaneid by HTML5 and CSS3.
+
+- Portfolio: https://fl0w.carrd.co
+- Transword: https://transword.xyz
 
 ### Stats
 
