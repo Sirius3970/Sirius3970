@@ -4,6 +4,7 @@ My name is James Walston, I am a full-stack developer. I write mostly in PHP, Py
 
 - Portfolio: https://fl0w.carrd.co
 - Transword: https://transword.xyz
+(I have more works available [on my Gist here](https://gist.github.com/goverfl0w) as well.
 
 ### Stats
 
