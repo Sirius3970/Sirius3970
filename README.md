@@ -1,6 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
-
-##### Hi. I'm James.
+##### Hi. I'm James. 👋
 
 I am a full-stack developer who codes in their free time. Well, looser "stack" in full-stack.
 
