@@ -1,8 +1,7 @@
 ## Hi. I'm James. 👋
 
 I am a full-stack developer who codes in their free time. Well, looser "stack" in full-stack.
-
-I currently help maintain the official Discord library for Python-based interactions.
+I currently help maintain **discord-interactions**, the official Discord library for Python-based interactions.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwalston2002@gmail.com)
 
