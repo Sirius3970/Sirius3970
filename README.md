@@ -6,7 +6,6 @@ I am a full-stack developer who codes in their free time. Well, looser "stack" i
 
 - **discord-interactions**: discord.py Python extension library for discord interactions
 - **top-gg/php-sdk**: The official SDK for the Top.gg API wrapper in PHP
-- **vapourlabs/vapour-space**: Asynchronous connection communications platform
 - **Transword** (SOLD): Discord Bot specializing in foreign language translation
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwalston2002@gmail.com)
